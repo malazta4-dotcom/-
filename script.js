@@ -1,4 +1,4 @@
-const supportedCurrencies = {
+malaz taha const supportedCurrencies = {
   USD: { ar: "الدولار الأمريكي", en: "US Dollar" },
   EUR: { ar: "اليورو", en: "Euro" },
   TRY: { ar: "الليرة التركية", en: "Turkish Lira" },
